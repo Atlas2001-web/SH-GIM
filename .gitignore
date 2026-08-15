@@ -1,0 +1,27 @@
+# Project data and generated results (not published)
+/DATA/
+/GIM/
+*.mat
+*.SP3
+*.sp3
+*.rnx
+*.24o
+*.24i
+*.crx
+*.obs
+
+# Generated figures and MATLAB temporary files
+*.png
+*.jpg
+*.jpeg
+*.fig
+*.asv
+*.log
+*.pid
+
+# Third-party binaries and bundled external toolboxes
+/functions/Tools/
+
+# Local planning and agent metadata
+/.superpowers/
+/docs/
